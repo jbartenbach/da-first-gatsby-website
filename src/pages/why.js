@@ -7,3 +7,5 @@ const Why = () => {
         </main>
     )
 }
+
+export default Why
